@@ -1,4 +1,4 @@
-
+<!-- 
 <p align="center">
 <img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
 </p>
@@ -363,4 +363,4 @@ PS: 仓库每周一更，想要及时收到推送，交流想法的同学，可�
 
 <p align="center">
 <img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
-</p>
+</p> -->
